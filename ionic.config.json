@@ -1,0 +1,7 @@
+{
+  "name": "competenceIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
